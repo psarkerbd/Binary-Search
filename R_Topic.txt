@@ -1,0 +1,5 @@
+> Linear Search
+> Binary Search
+> Ternary Search
+> Searching by HashMap or HashTable, Hash Data Structure
+	[ Link: https://tekmarathon.com/2012/10/05/best-searching-algorithm-2/ ]
